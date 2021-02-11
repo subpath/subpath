@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wow! I didn't know about special repositories on GitHub!
 
 <!--
 **subpath/subpath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
