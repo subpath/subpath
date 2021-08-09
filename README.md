@@ -1,5 +1,5 @@
 ### Hello there , I'm Alex 👋
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">via GIPHY</a></p>
+![gif](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 [![Website](https://img.shields.io/website?label=piece-data.com&style=for-the-badge&url=https%3A%2F%2Fpiece-data.com/)](https://piece-data.com/)
 
