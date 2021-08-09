@@ -1,4 +1,4 @@
-### Hello there , I'm Alex 👋
+### Hello there, I'm Alex 👋
 ![gif](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 [![Website](https://img.shields.io/website?label=piece-data.com&style=for-the-badge&url=https%3A%2F%2Fpiece-data.com/)](https://piece-data.com/)
