@@ -7,8 +7,8 @@
 
 - 🔭 Working at DeliveryHero 🇩🇪 developing the best goddamn Search
 - 🌱 I’m currently learning functional programming in Scala
-- 👯 I’m open to collaborating with startups that on topics like climate change, waste reduction and sustainability.
-- 🥅 2021-2022 Goals: Learn german
+- 👯 I’m open to collaborating with startups that focus on topics like climate change, waste reduction, and sustainability.
+- 🥅 2021-2022 Goals: Learn German 
 - ⚡ Fun fact: I love rubik's cube and 11x11x11 is my favorite
 
 ### Connect with me:
