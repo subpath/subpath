@@ -8,7 +8,7 @@
 
 - 🔭 Currently working at DeliveryHero 🇩🇪 developing the best goddamn Search
 - 👯 I’m open to collaborating with startups on topics like climate change, waste reduction and sustainability.
-- 🥅 2021-2022 Goals: Learn german
+- 🥅 2022 Goal: Learn german
 - ⚡ Fun fact: I love rubik's cube and 11x11x11 is my favorite
 
 #### Connect with me
@@ -22,7 +22,7 @@
 
 ### Languages and Tools
 
-```python, scala, spark, airflow, fastapi, flask, kafka, docker, k8s, terraform, luigi, deep learning, lucene, BERT, fasttext, sckit-learn, CuML, CuDF, GCP, AWS```
+```python, scala, rust, spark, airflow, fastapi, flask, akka, warp, tokio, lucene, kafka, docker, k8s, terraform, luigi, deep learning, Keras, PyTorch, BERT, fasttext, word2vec, sckit-learn, CuML, CuDF, GCP, AWS, GCP, BigQuery, Athena```
 
 ### ML topics
 
