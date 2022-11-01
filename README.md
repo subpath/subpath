@@ -26,7 +26,7 @@
 
 ### ML topics
 
-```NLP, NLU, Time-series forecasting, anomaly detection, real-time ML, probabilistic classification```
+```search, NLP, NLU, Time-series forecasting, anomaly detection, real-time ML, probabilistic classification```
 
 
 [website]: https://piece-data.com/
