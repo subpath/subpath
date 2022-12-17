@@ -6,9 +6,9 @@
 
 ### I'm a husband, father, cat owner and a full stack machine learning engineer
 
-- 🔭 Currently working at DeliveryHero 🇩🇪 developing the best goddamn Search
+- 🔭 Currently working at DeliveryHero 🇩🇪 as a Tech Lead at Search team
 - 👯 I’m open to collaborating with startups on topics like climate change, waste reduction and sustainability.
-- 🥅 2022 Goal: Learn german
+- 🥅 ~~2022~~ 2023 Goal: Learn german
 - ⚡ Fun fact: I love rubik's cube and 11x11x11 is my favorite
 
 #### Connect with me
