@@ -9,7 +9,12 @@
 
 ### Languages and Tools
 
-```python, scala, rust, spark, airflow, fastapi, flask, akka, warp, tokio, lucene, kafka, docker, k8s, terraform, luigi, deep learning, Keras, PyTorch, BERT, fasttext, word2vec, sckit-learn, CuML, CuDF, GCP, AWS, GCP, BigQuery, Athena, LLMs, LiteLLM, axolotl, Llama.cpp, adk, qdrant, RAG, agents, ```
+```
+python, scala, rust, spark, airflow, fastapi, flask, akka, warp, tokio, lucene, kafka, nats, docker, k8s, terraform, luigi, 
+polars, duckdb, pydantic, uv, deep learning, Keras, PyTorch, BERT, fasttext, word2vec, scikit-learn, CuML, CuDF,
+vllm, ollama, LiteLLM, axolotl, Llama.cpp, adk, qdrant, RAG, agents, langgraph, mcp, GCP, Vertex AI, Cloud Run, 
+Cloud Functions, Pub/Sub, Dataflow, Bigtable, BigQuery, GKE, AWS, Lambda, EKS, S3, SageMaker, Kinesis, Glue, DynamoDB, Athena
+```
 
 ### ML topics
 
