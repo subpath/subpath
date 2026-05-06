@@ -13,7 +13,15 @@
 python, scala, rust, spark, airflow, fastapi, flask, akka, warp, tokio, lucene, kafka, nats, docker, k8s, terraform, luigi, 
 polars, duckdb, pydantic, uv, deep learning, Keras, PyTorch, BERT, fasttext, word2vec, scikit-learn, CuML, CuDF,
 vllm, ollama, LiteLLM, axolotl, Llama.cpp, adk, qdrant, RAG, agents, langgraph, mcp, GCP, Vertex AI, Cloud Run, 
-Cloud Functions, Pub/Sub, Dataflow, Bigtable, BigQuery, GKE, AWS, Lambda, EKS, S3, SageMaker, Kinesis, Glue, DynamoDB, Athena
+Cloud Functions, Pub/Sub, Dataflow, Bigtable, BigQuery, GKE, AWS, Lambda, EKS, S3, SageMaker, Kinesis, Glue, DynamoDB, Athena,
+EMR, Redshift, ECS, Fargate, Step Functions, EventBridge, CloudWatch, IAM, VPC, EC2, RDS, ElastiCache, OpenSearch,
+PostgreSQL, MySQL, Redis, MongoDB, Cassandra, Elasticsearch, ClickHouse, Milvus, FAISS, Weaviate, Pinecone, ChromaDB,
+Ray, Dask, Celery, Prefect, Dagster, MLflow, Weights & Biases, Feast, Airbyte, dbt, Trino, Presto, Hive, Iceberg, Delta Lake, Hudi,
+Pandas, NumPy, SciPy, JAX, XGBoost, LightGBM, CatBoost, ONNX, TensorRT, Triton Inference Server, NVIDIA Triton, DeepSpeed, LoRA, QLoRA, PEFT,
+Transformers, SentenceTransformers, Hugging Face, tokenizers, datasets, bitsandbytes, FlashAttention, GGUF, safetensors, OpenAI API, Anthropic API, Gemini API,
+Prometheus, Grafana, Loki, Tempo, Jaeger, OpenTelemetry, ELK Stack, ArgoCD, Helm, Istio, Linkerd, Envoy, Nginx, Traefik,
+GitHub Actions, Jenkins, DroneCI, GitLab CI, Bazel, Gradle, Maven, sbt, Poetry, Hatch, Ruff, Black, Mypy, Pytest,
+gRPC, REST, GraphQL, Protobuf, Avro, Parquet, ORC, Arrow, JSON Schema, OpenAPI, AsyncIO, SQLAlchemy, Alembic
 ```
 
 ### ML topics
